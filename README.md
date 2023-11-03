@@ -1,3 +1,2 @@
 # Learning-Java
-I will be uploading all my learnings and projects of JAVA here.
-Feel free to use anything for the learning purposes.
+Welcome to my "Learning Java" repository! This is a place where I document my journey in learning and practicing Java programming. Here, you will find a collection of Java projects and exercises that I have worked on to improve my Java skills.
