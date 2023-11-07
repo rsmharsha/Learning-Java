@@ -5,4 +5,4 @@
 
 ## Table of Contents
 - Mortgage Caluclator 
-- Mortage Calculator 2
+- Mortgage Calculator 2
