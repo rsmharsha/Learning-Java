@@ -4,5 +4,5 @@
 - Here, you will find a collection of Java projects and exercises that I have worked on to improve my Java skills.
 
 ## Table of Contents
-- 1.Mortgage Caluclator 
-- 2.Mortage Calculator 2
+- Mortgage Caluclator 
+- Mortage Calculator 2
